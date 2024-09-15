@@ -1,0 +1,2 @@
+#define DTREE_CONFIG EndTreeWithDesc<WithEvert<WithDescAggrOfDescValue<dtree::CountAndSum<int, int>, NullPredicate_, WithDescAggrOfDescValue<dtree::CountAndSum<int, int>, NullPredicate_, WithDescValueWithDesc<dtree::Nop<int>, WithAncAggr<FreeSemigroup, NullPredicate_, WithDescAggrOfDescValue<FreeSemigroup, NullPredicate_, WithDescValueWithDesc<FreeGroup, WithAncDescAggr<dtree::Count<int>, NullPredicate_, WithAncAggr<dtree::Count<int>, dtree::Index_<int>, Begin > > > > > > > > > >
+#include "test/dtree/tree.cc"

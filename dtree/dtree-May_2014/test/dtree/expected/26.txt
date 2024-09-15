@@ -1,0 +1,40 @@
+<<<
+  4: vL24R23F1
+
+  6: vL9R33F0
+  2: vL1R4F0
+  3: vL-21R-6F0
+
+  7: vL1R-6F0
+  15: vL-2R-1F1
+  13: vL23R28F1
+  5: vL25R42F1
+  14: vL14R33F1
+  10: vL6R-2F1
+  11: vL-2R12F0
+  8: vL-10R17F0
+  1: vL6R4F0
+  9: vL-21R32F1
+
+  12: vL9R-15F1
+>>>
+<<<
+  @4: vL24R23F1 aL0R0 f1
+
+    /2: vL-8R-29F0 aL0R0 f1
+      \3: vL-22R-10F0 aL0R0 f1
+  @6: vL9R33F0 aL0R0 f1
+
+          /14: vL-9R-11F0 aL0R0 f0
+        /5: vL14R2F0 aL0R0 f0
+      /13: vL29R25F0 aL14R2 f0
+    /15: vL1R-8F0 aL43R27 f1
+      \7: vL-5R3F1 aL0R0 f0
+  @10: vL6R-2F1 aL44R19 f0
+    \11: vL14R-8F1 aL8R20 f0
+        /8: vL-15R11F1 aL16R0 f0
+          \1: vL16R-13F0 aL0R0 f0
+      \9: vL-19R20F1 aL0R27 f0
+
+  @12: vL9R-15F1 aL0R0 f0
+>>>

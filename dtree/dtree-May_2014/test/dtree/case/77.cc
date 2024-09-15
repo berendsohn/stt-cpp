@@ -1,0 +1,2 @@
+#define DTREE_CONFIG EndTree<WithEvert<WithAncAggr<dtree::Max<int>, dtree::GreaterEqual_<int>, WithAncValue<dtree::Nop<int>, WithAncAggr<dtree::CountAndSum<double, double>, dtree::IndexByCount_<double>, WithAncAggr<dtree::Max<double>, dtree::GreaterEqual_<double>, WithAncValue<dtree::Add<double>, WithAncAggr<dtree::Count<int>, dtree::Index_<int>, WithAncAggr<dtree::Count<int>, dtree::Index_<int>, Begin > > > > > > > > >
+#include "test/dtree/tree.cc"

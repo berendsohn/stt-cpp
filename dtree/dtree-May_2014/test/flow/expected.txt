@@ -1,0 +1,124 @@
+case/0.txt:1:10: error: problem line 'p' expected before end of file
+case/1.txt:1:3: error: problem line 'p' expected before end of file
+case/2.txt:1:9: error: problem line 'p' expected before end of file
+case/3.txt:1:12: error: problem designator "max" expected
+case/4.txt:1:25: error: problem designator "max" expected
+case/5.txt:1:26: error: number of nodes: integer between 2 and 2147483646 expected
+case/6.txt:1:18: error: number of nodes: integer between 2 and 2147483646 expected
+case/7.txt:1:36: error: end of line expected before end of file
+case/8.txt:2:9: error: node descriptor 'n' or comment line 'c' expected
+case/9.txt:2:18: error: space expected before node
+case/10.txt:2:18: error: node: integer between 1 and 2 expected
+case/11.txt:2:26: error: node: integer between 1 and 2 expected
+case/12.txt:2:42: error: end of line expected
+case/13.txt:3: error: more than one source
+case/13.txt:2: note: previous node descriptor was here
+case/14.txt:3: error: sink not distinct from source
+case/14.txt:2: note: previous node descriptor was here
+case/15.txt:3: error: source not distinct from sink
+case/15.txt:2: note: previous node descriptor was here
+case/16.txt:4:3: error: solution line 's' expected before end of file
+case/17.txt:4:10: error: solution line 's' or comment line 'c' expected
+case/19.txt:4:17: error: tail node: integer between 1 and 2 expected
+case/20.txt:4:17: error: head node: integer between 1 and 2 expected
+case/21.txt:4:10: error: space expected before tail node
+case/22.txt:4:25: error: arc capacity: integer between 0 and 2147483647 expected
+case/23.txt:4:26: error: arc capacity: integer between 0 and 2147483647 expected
+case/24.txt:6:17: error: solution line 's' expected before end of file
+case/25.txt:5: error: self-loop
+case/26.txt:5: error: parallel arc
+case/26.txt:4: note: previous arc descriptor was here
+case/27.txt:6:17: error: solution line 's' or comment line 'c' expected
+case/28.txt:6: error: parallel arc
+case/28.txt:4: note: previous arc descriptor was here
+case/29.txt:1:49: error: number of arcs expected before end of file
+case/30.txt:2:33: error: number of arcs expected before end of file
+case/31.txt:5:9: error: node designator: 's' for source or 't' for sink expected
+case/32.txt:8:17: error: objective value: integer between 0 and 2147483647 expected
+case/33.txt:10:3: error: flow assignment 'f' expected before end of file
+case/34.txt:8:25: error: head node: integer between 2 and 2 expected
+case/35.txt:8:42: error: amount of flow: integer between 0 and 1000 expected
+case/36.txt:9:9: error: flow assignment 'f' expected before end of file
+case/37.txt:9:10: error: flow assignment 'f' expected before end of file
+case/38.txt:9:33: error: head node: integer between 1 and 1 expected
+case/40.txt: error: the flow excess at the sink is too large for an int
+case/41.txt: error: the flow excess at the sink is negative
+case/41.txt: error: augmenting path: 5 2 1
+case/42.txt: error: the flow excess at node 4 is negative
+case/42.txt: error: the flow excess at the sink is negative
+case/42.txt: error: augmenting path: 5 2 1
+case/43.txt: error: augmenting path: 1 4
+case/44.txt: error: the flow excess at node 2 is negative
+case/44.txt: error: the flow excess at node 3 is positive
+case/44.txt: error: augmenting path: 1 4
+case/45.txt: error: augmenting path: 1 3 2 4
+case/47.txt: error: the flow excess at the sink is 2, but the objective value is 1
+case/48.txt: error: flow cycle: 2 4 2
+case/48.txt: error: flow cycle: 3 2 3
+case/49.txt: error: the flow excess at node 3 is positive
+case/49.txt: error: the flow excess at node 5 is positive
+case/49.txt: error: the flow excess at the sink is negative
+case/49.txt: error: augmenting path: 1 2
+case/49.txt: error: flow cycle: 2 4 5 2
+case/49.txt: error: flow cycle: 3 2 3
+case/50.txt: error: the flow excess at node 2 is positive
+case/50.txt: error: augmenting path: 2 3
+case/51.txt: error: the flow excess at node 2 is positive
+case/52.txt:1:41: error: number of arcs: integer between 0 and 12 expected
+case/53.txt:1:40: error: number of arcs: integer between 0 and 2147483647 expected
+case/54.txt:4:9: error: arc descriptor 'a' or comment line 'c' expected
+case/55.txt:10:10: error: flow assignment 'f' or comment line 'c' expected
+case/56.txt:10:12: error: tail node: integer between 1 and 1 expected
+case/57.txt:10:41: error: head node: integer between 2 and 2 expected
+case/58.txt:1:28: error: number of arcs expected before end of line
+case/59.txt:2:18: error: node expected before end of line
+case/0.txt:1:10: error: problem line 'p' expected before end of file
+case/1.txt:1:3: error: problem line 'p' expected before end of file
+case/2.txt:1:9: error: problem line 'p' expected before end of file
+case/3.txt:1:12: error: problem designator "max" expected
+case/4.txt:1:25: error: problem designator "max" expected
+case/5.txt:1:26: error: number of nodes: integer between 2 and 2147483646 expected
+case/6.txt:1:18: error: number of nodes: integer between 2 and 2147483646 expected
+case/7.txt:1:36: error: end of line expected before end of file
+case/8.txt:2:9: error: node descriptor 'n' or comment line 'c' expected
+case/9.txt:2:18: error: space expected before node
+case/10.txt:2:18: error: node: integer between 1 and 2 expected
+case/11.txt:2:26: error: node: integer between 1 and 2 expected
+case/12.txt:2:42: error: end of line expected
+case/13.txt:3: error: more than one source
+case/13.txt:2: note: previous node descriptor was here
+case/14.txt:3: error: sink not distinct from source
+case/14.txt:2: note: previous node descriptor was here
+case/15.txt:3: error: source not distinct from sink
+case/15.txt:2: note: previous node descriptor was here
+case/19.txt:4:17: error: tail node: integer between 1 and 2 expected
+case/20.txt:4:17: error: head node: integer between 1 and 2 expected
+case/21.txt:4:10: error: space expected before tail node
+case/22.txt:4:25: error: arc capacity: integer between 0 and 2147483647 expected
+case/23.txt:4:26: error: arc capacity: integer between 0 and 2147483647 expected
+case/25.txt:5: error: self-loop
+case/26.txt:5: error: parallel arc
+case/26.txt:4: note: previous arc descriptor was here
+case/28.txt:6: error: parallel arc
+case/28.txt:4: note: previous arc descriptor was here
+case/29.txt:1:49: error: number of arcs expected before end of file
+case/30.txt:2:33: error: number of arcs expected before end of file
+case/31.txt:5:9: error: node designator: 's' for source or 't' for sink expected
+case/40.txt: error: the total outgoing capacity at node 1 is too large for an int
+case/40.txt: error: the total incoming capacity at node 5 is too large for an int
+case/41.txt: error: the total outgoing capacity at node 1 is too large for an int
+case/41.txt: error: the total incoming capacity at node 5 is too large for an int
+case/42.txt: error: the total outgoing capacity at node 1 is too large for an int
+case/42.txt: error: the total incoming capacity at node 5 is too large for an int
+case/48.txt: error: the total capacity on edge 2 3 is too large for an int
+case/48.txt: error: the total capacity on edge 2 4 is too large for an int
+case/48.txt: error: the total incoming capacity at node 2 is too large for an int
+case/48.txt: error: the total outgoing capacity at node 2 is too large for an int
+case/49.txt: error: the total capacity on edge 2 3 is too large for an int
+case/49.txt: error: the total incoming capacity at node 2 is too large for an int
+case/49.txt: error: the total outgoing capacity at node 2 is too large for an int
+case/52.txt:1:41: error: number of arcs: integer between 0 and 12 expected
+case/53.txt:1:40: error: number of arcs: integer between 0 and 2147483647 expected
+case/54.txt:4:9: error: arc descriptor 'a' or comment line 'c' expected
+case/58.txt:1:28: error: number of arcs expected before end of line
+case/59.txt:2:18: error: node expected before end of line

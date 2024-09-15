@@ -1,0 +1,34 @@
+<<<
+  1: vL10R5F0 v2b8,000,03d,000
+  4: vL-3R-6F0 vd11,000,cab,000
+  15: vL-11R-17F0 v43a,000,bf2,000
+  5: vL-6R-10F1 vd4b,000,af1,000
+  11: vL9R-27F0 v3b0,000,3f7,000
+  7: vL16R-15F1 v95c,000,44e,000
+  13: vL-21R17F1 v0af,000,d0e,000
+  2: vL19R-24F1 v802,000,f32,000
+  14: vL32R-45F1 v93a,000,108,000
+  12: vL54R-70F1 v1a9,000,a4a,000
+  3: vL3R-3F0 vedc,000,c41,000
+  8: vL9R-7F0 v545,000,72f,000
+  6: vL-2R4F1 v286,000,063,000
+  10: vL10R-12F0 vd6e,000,954,000
+  9: vL-16R3F1 v11b,000,799,000
+>>>
+<<<
+          /3: a1 a1 vL-6R4F0 aL0R0 aL0R0 vedc,545,c41,72f aedc,c41 f0
+        /8: a5 a5 vL63R-45F1 aL-25R-5 aL1R11 v545,1a9,72f,a4a a545,72f f0
+          \6: a3 a3 vL-11R11F1 aL-16R-14 aL0R12 v286,545,063,72f a286,063 f1
+              /9: a1 a1 vL-26R15F1 aL0R0 aL0R0 v11b,d6e,799,954 a11b,799 f0
+            \10: a2 a2 vL-16R12F1 aL-26R0 aL0R15 vd6e,286,954,063 ad6e,954 f0
+      /12: a7 a7 vL-46R35F0 aL0R-70 aL74R0 v1a9,802,a4a,f32 a1a9,a4a f0
+        \14: a1 a1 vL25R-22F0 aL0R0 aL0R0 v93a,1a9,108,a4a a93a,108 f0
+    /2: a8 a8 vL-41R40F0 aL-46R-35 aL28R35 v802,0af,f32,d0e a802,f32 f0
+  @13: a15 a15 vL-21R17F1 aL-87R0 aL0R75 v0af,000,d0e,000 a0af,d0e f0
+      /7: a1 a1 vL7R12F1 aL0R0 aL0R0 v95c,3b0,44e,3f7 a95c,44e f0
+    \11: a6 a6 vL-44R30F1 aL-20R0 aL7R32 v3b0,0af,3f7,d0e a3b0,3f7 f1
+        /4: a3 a3 vL-13R-11F0 aL-8R-11 aL0R0 vd11,2b8,cab,03d ad11,cab f1
+            /5: a1 a1 vL5R7F1 aL0R0 aL0R0 vd4b,43a,af1,bf2 ad4b,af1 f0
+          \15: a2 a2 vL-8R-11F0 aL0R0 aL5R7 v43a,d11,bf2,cab a43a,bf2 f1
+      \1: a4 a4 vL1R32F0 aL-21R-22 aL0R0 v2b8,3b0,03d,3f7 a2b8,03d f0
+>>>

@@ -1,0 +1,22 @@
+tsp: point in the unit square expected
+---
+tsp: point in the unit square expected
+---
+tsp: stdin: Is a directory
+---
+tsp: number expected
+---
+tsp: number expected
+---
+tsp: two numbers expected for point
+---
+tsp: at least one point expected
+---
+0	0
+0	0
+---
+0	0
+0	0.5
+0.5	0.5
+0.5	0
+0	0

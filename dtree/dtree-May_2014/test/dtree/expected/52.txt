@@ -1,0 +1,42 @@
+<<<
+  1: vL-6R-8F0 vfaf,000,770,000 -> 3
+  2: vL5R3F1 vac3,000,476,000 -> 3
+  3: vL29R-9F1 ve65,000,899,000 -> 5
+  4: vL0R-9F1 v939,000,b4b,000
+  5: vL14R-18F1 vf59,000,807,000 -> 7
+  6: vL-6R0F1 v618,000,bf4,000
+  7: vL16R1F1 v17e,000,51c,000
+  8: vL1R2F1 vb10,000,206,000
+  9: vL2R-2F0 v6e3,000,96e,000
+  10: vL7R-3F0 v3e0,000,fe7,000
+  11: vL3R5F0 v4a2,000,0ab,000
+  12: vL7R7F0 v103,000,d81,000 -> 13
+  13: vL-5R-7F0 v2e3,000,1c6,000 -> 3
+  14: vL-9R4F1 vaf5,000,260,000
+  15: vL6R-8F1 va81,000,834,000
+>>>
+<<<
+  @2: vL5R3F1 vL5R3F1 aL0R0 oLinfRinf vac3,000,476,000 f1 f0
+      /7: vL10R-13F0 vL10R-13F0 aL-19R-2 oLinfRinf v17e,000,51c,000 f1 f1
+        \5: vL-19R-2F0 vL-19R-2F0 aL0R0 oLinfRinf vf59,000,807,000 f1 f0
+    \3: vL-12R24F0 vL-12R24F0 aL-9R-15 oL-6R-8 ve65,000,899,000 f0 f1
+     ->13: vL-5R-7F0 vL-5R-7F0 aL-5R-7 oL-6R-8 v2e3,000,1c6,000 f1 f1
+        \12: vL12R14F0 vL12R14F0 aL0R0 oLinfRinf v103,000,d81,000 f1 f0
+       '.1: vL-6R-8F0 vL-6R-8F0 aL-6R-8 oL-6R-8 vfaf,000,770,000 f1 f1
+
+  @4: vL0R-9F1 vL0R-9F1 aL0R0 oLinfRinf v939,000,b4b,000 f0 f0
+
+  @6: vL-6R0F1 vL-6R0F1 aL0R0 oLinfRinf v618,000,bf4,000 f1 f0
+
+  @8: vL1R2F1 vL1R2F1 aL0R0 oLinfRinf vb10,000,206,000 f0 f0
+
+  @9: vL2R-2F0 vL2R-2F0 aL-5R-1 oL-6R-8 v6e3,000,96e,000 f1 f0
+
+  @10: vL7R-3F0 vL7R-3F0 aL0R0 oLinfRinf v3e0,000,fe7,000 f1 f1
+
+  @11: vL3R5F0 vL3R5F0 aL0R0 oLinfRinf v4a2,000,0ab,000 f1 f0
+
+  @14: vL-9R4F1 vL-9R4F1 aL0R0 oLinfRinf vaf5,000,260,000 f0 f1
+
+  @15: vL6R-8F1 vL6R-8F1 aL0R0 oLinfRinf va81,000,834,000 f0 f0
+>>>

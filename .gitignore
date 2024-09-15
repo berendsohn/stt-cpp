@@ -1,0 +1,11 @@
+check
+data
+results.jsonl
+stt-cpp/bin
+stt-cpp/parse_input.o
+dtree/dtree_queries
+dtree/parse_input.o
+tarjan-werneck/connectivity_st_e
+tarjan-werneck/connectivity_st_v
+tarjan-werneck/parse_input.o
+tarjan-werneck/dyntrees

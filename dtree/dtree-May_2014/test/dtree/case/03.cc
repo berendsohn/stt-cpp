@@ -1,0 +1,2 @@
+#define DTREE_CONFIG EndSeq<WithReverse<WithAggr<dtree::Max<double>, dtree::Greater_<double>, WithAggr<dtree::Min<double>, dtree::LessEqual_<double>, WithValue<dtree::Add<double>, WithAggr<dtree::CountAndSum<int, int>, dtree::IndexByCount_<int>, WithValue<dtree::Nop<int>, WithAggr<dtree::Count<int>, dtree::Index_<int>, WithAggr<dtree::Count<int>, dtree::Index_<int>, Begin > > > > > > > > >
+#include "test/dtree/seq.cc"

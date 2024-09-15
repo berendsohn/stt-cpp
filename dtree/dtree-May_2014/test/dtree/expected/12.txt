@@ -1,0 +1,36 @@
+<<<
+  5: v6 v2
+  8: v7 v6
+  15: v2 v1
+
+  14: v3 v0
+  1: v4 v6
+  7: v6 v0
+  10: v6 v5
+  12: v2 v5
+  6: v6 v1
+  9: v5 v7
+  11: v3 v3
+  4: v5 v0
+  13: v6 v7
+  2: v7 v2
+  3: v4 v0
+>>>
+<<<
+    /5: v6 a6 v2 a2 a2 f1 f1
+  @8: v7 a2 v6 a6 a7 f1 f1
+    \15: v2 a2 v1 a1 a1 f0 f1
+
+            /4: v5 a5 v0 a0 a0 f1 f0
+          /13: v6 a5 v7 a7 a7 f1 f1
+        /2: v7 a5 v2 a7 a9 f0 f1
+      /11: v3 a3 v3 a7 a20 f1 f0
+          /9: v5 a5 v7 a7 a7 f1 f0
+        \6: v6 a5 v1 a7 a8 f0 f0
+    /3: v4 a3 v0 a7 a20 f0 f1
+  @12: v2 a2 v5 a6 a16 f0 f1
+      /10: v6 a6 v5 a5 a5 f1 f0
+    \7: v6 a3 v0 a6 a11 f0 f0
+      \14: v3 a3 v0 a6 a6 f1 f0
+        \1: v4 a4 v6 a6 a6 f0 f1
+>>>

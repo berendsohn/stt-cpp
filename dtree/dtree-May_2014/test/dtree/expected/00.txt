@@ -1,0 +1,42 @@
+<<<
+  2: v2 vL3R-12F0
+  4: v3 vL7R4F1
+
+  3: v3 vL-2R1F0
+  8: v7 vL-1R2F0
+  5: v5 vL2R0F0
+
+  6: v6 vL-3R-9F0
+
+  9: v5 vL-6R-4F1
+  1: v0 vL-45R2F1
+  11: v4 vL-1R2F1
+  15: v5 vL-10R-7F1
+  12: v4 vL2R-23F1
+  13: v4 vL-3R1F0
+
+  14: v4 vL-10R-3F1
+  10: v1 vL-9R-2F1
+  7: v0 vL-1R2F1
+>>>
+<<<
+    /8: v7 vL1R1F0 aL3R0 f1
+      \5: v5 vL3R-2F0 aL0R0 f1
+  @3: v3 vL-2R1F0 aL0R0 f1
+
+    /2: v2 vL-16R-4F1 aL0R0 f0
+  @4: v3 vL7R4F1 aL0R0 f0
+
+  @6: v6 vL-3R-9F0 aL0R0 f0
+
+  @13: v4 vL-3R1F0 aL2R1 f1
+    \12: v4 vL5R-24F1 aL25R0 f0
+        /15: v5 vL-9R35F0 aL9R9 f0
+          \11: v4 vL9R9F0 aL0R0 f1
+      \1: v0 vL25R-47F0 aL0R44 f0
+        \9: v5 vL-6R39F0 aL0R0 f0
+
+  @14: v4 vL-10R-3F1 aL5R12 f0
+      /10: v1 vL-4R-8F0 aL0R0 f1
+    \7: v0 vL5R9F0 aL0R0 f0
+>>>

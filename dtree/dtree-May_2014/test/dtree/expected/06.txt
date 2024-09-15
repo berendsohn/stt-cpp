@@ -1,0 +1,34 @@
+<<<
+  6: v3 vL-30R-22F0
+  12: v5 vL-42R5F0
+  9: v7 vL-35R-41F1
+  2: v4 vL-31R-25F0
+  13: v7 vL-6R-12F1
+  15: v2 vL-10R-11F1
+  3: v2 vL-13R-2F0
+  5: v2 vL-15R-13F1
+  10: v4 vL-26R-6F0
+  4: v4 vL-2R-3F0
+  7: v1 vL-55R-36F0
+  11: v7 vL-6R6F0
+  8: v4 vL0R-1F1
+  1: v2 vL-26R4F1
+  14: v5 vL-40R-10F1
+>>>
+<<<
+        /3: a2 v2 vL10R-7F1 aL0R-9 aL0R-9 f1 f1
+          \15: a1 v2 vL3R-9F1 aL0R0 aL0R0 f0 f0
+      /13: a3 v7 vL25R13F1 aL0R-7 aL0R-7 f1 f1
+    /2: a7 v4 vL-12R-16F1 aL-11R-16 aL-11R-16 f1 f0
+        /9: a1 v7 vL7R-46F1 aL0R0 aL0R0 f0 f1
+      \12: a3 v5 vL-11R30F0 aL0R-46 aL0R-46 f1 f1
+        \6: a1 v3 vL12R-27F0 aL0R0 aL0R0 f0 f0
+  @5: a15 v2 vL-15R-13F1 aL-28R-40 aL-28R-40 f0 f0
+    \14: a7 v5 vL3R-25F0 aL-26R-15 aL-26R-15 f1 f0
+        /10: a1 v4 vL-24R-3F0 aL0R0 aL0R0 f1 f0
+      \4: a6 v4 vL7R38F1 aL-53R-33 aL-53R-33 f0 f1
+              /11: a1 v7 vL49R42F0 aL0R0 aL0R0 f1 f1
+            /7: a2 v1 vL-35R-55F1 aL0R0 aL0R0 f1 f0
+          /8: a3 v4 vL-5R26F0 aL-35R-55 aL-35R-55 f1 f1
+        \1: a4 v2 vL-24R7F1 aL-40R-29 aL-40R-29 f1 f1
+>>>

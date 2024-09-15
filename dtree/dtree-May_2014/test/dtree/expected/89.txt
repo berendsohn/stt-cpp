@@ -1,0 +1,40 @@
+<<<
+  1: vL4R3F0
+  2: vL1R4F1
+  3: vL1R-1F1
+  4: vL-2R0F1 -> 10
+  5: vL4R-1F0
+  6: vL2R2F0 -> 4
+  7: vL-6R-8F1
+  8: vL0R-6F1 -> 14
+  9: vL5R1F1
+  10: vL-7R-6F0 -> 8
+  11: vL-5R-1F1 -> 12
+  12: vL6R-6F0 -> 6
+  13: vL1R-3F1 -> 8
+  14: vL6R2F1
+  15: vL-4R7F1 -> 8
+>>>
+<<<
+  @1: a1 o0 vL4R3F0 a1 o0 vL4R3F0 aL4R3
+
+  @2: a2 o0 vL1R4F1 a2 o0 vL1R4F1 aL-5R-1
+
+  @3: a1 o0 vL1R-1F1 a1 o0 vL1R-1F1 aL1R-1
+
+  @5: a1 o0 vL4R-1F0 a1 o0 vL4R-1F0 aL4R-1
+
+  @7: a1 o2 vL-6R-8F1 a1 o2 vL-6R-8F1 aL-6R-8
+
+  @9: a1 o0 vL5R1F1 a1 o0 vL5R1F1 aL5R1
+
+  @14: a1 o0 vL6R2F1 a1 o0 vL6R2F1 aL6R2
+      /8: a3 o2 vL0R-6F1 a3 o2 vL0R-6F1 aL-7R-6
+         .'13: a1 o1 vL1R-3F1 a1 o1 vL1R-3F1 aL1R-3
+       ->15: a1 o2 vL-4R7F1 a1 o2 vL-4R7F1 aL-4R-3
+          /10: a1 o0 vL-7R-6F0 a1 o0 vL-7R-6F0 aL-7R-6
+        \4: a2 o0 vL-2R0F1 a2 o0 vL-2R0F1 aL-7R-6
+    \6: a6 o2 vL2R2F0 a6 o2 vL2R2F0 aL-7R-6
+      \12: a2 o0 vL6R-6F0 a2 o0 vL6R-6F0 aL-5R-6
+        \11: a1 o0 vL-5R-1F1 a1 o0 vL-5R-1F1 aL-5R-1
+>>>

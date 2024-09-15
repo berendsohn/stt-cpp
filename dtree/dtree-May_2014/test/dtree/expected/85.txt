@@ -1,0 +1,44 @@
+<<<
+  1: vL4R-1F1
+  2: vL4R0F0
+  3: vL-2R-5F1
+  4: vL-12R1F1 -> 11
+  5: vL5R3F1
+  6: vL-23R-5F0
+  7: vL-42R12F1
+  8: vL-19R13F1
+  9: vL-7R-6F0
+  10: vL8R-19F0
+  11: vL-6R1F0 -> 8
+  12: vL-8R10F0 -> 4
+  13: vL-7R-6F1
+  14: vL2R5F1 -> 9
+  15: vL4R14F1
+>>>
+<<<
+  @1: vL4R-1F1 vL4R-1F1 aL0R0 oLinfRinf f1
+
+  @2: vL4R0F0 vL4R0F0 aL0R0 oLinfRinf f0
+
+  @3: vL-2R-5F1 vL-2R-5F1 aL0R0 oLinfRinf f0
+
+  @5: vL5R3F1 vL5R3F1 aL0R0 oLinfRinf f0
+
+  @6: vL-23R-5F0 vL-23R-5F0 aL0R0 oLinfRinf f0
+
+  @7: vL-42R12F1 vL-42R12F1 aL0R0 oLinfRinf f1
+
+  @8: vL-19R13F1 vL-19R13F1 aL-12R0 oL-12R1 f0
+    \11: vL-12R13F1 vL-12R13F1 aL0R0 oL-12R1 f1
+     ->12: vL-8R10F0 vL-8R10F0 aL-12R1 oL-12R1 f1
+        \4: vL-4R-9F1 vL-4R-9F1 aL0R0 oLinfRinf f1
+
+  @10: vL8R-19F0 vL8R-19F0 aL0R0 oLinfRinf f1
+
+  @13: vL-7R-6F1 vL-7R-6F1 aL0R0 oLinfRinf f0
+
+    /9: vL-11R-9F1 vL-11R-9F1 aL0R0 oLinfRinf f0
+  @14: vL2R5F1 vL2R5F1 aL0R0 oLinfRinf f0
+
+  @15: vL4R14F1 vL4R14F1 aL0R0 oLinfRinf f1
+>>>

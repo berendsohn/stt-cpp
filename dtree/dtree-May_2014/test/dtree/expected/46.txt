@@ -1,0 +1,38 @@
+<<<
+  1: vL-11R-3F1 -> 7
+  2: vL-2R-7F0
+  3: vL-4R-2F1 -> 11
+  4: vL14R-8F0
+  5: vL9R-2F0 -> 1
+  6: vL7R-5F0 -> 7
+  7: vL-29R27F1 -> 9
+  8: vL-2R-5F0
+  9: vL-5R19F1 -> 11
+  10: vL-21R24F0
+  11: vL3R-2F0 -> 4
+  12: vL-6R18F0 -> 6
+  13: vL0R0F1 -> 10
+  14: vL-2R10F0
+  15: vL-13R11F1 -> 1
+>>>
+<<<
+  @2: a1 a1 a1 vL-2R-7F0 aL0R0 aL0R0 f0 f0
+
+      /11: a2 a2 a3 vL-29R32F1 aL-8R0 aL-8R0 f1 f1
+       ->3: a1 a1 a1 vL-4R-2F1 aL0R0 aL0R0 f1 f1
+        \9: a1 a1 a1 vL-8R21F1 aL0R0 aL0R0 f0 f0
+    /7: a5 a5 a9 vL-43R35F1 aL-30R0 aL-30R0 f1 f0
+        /12: a1 a1 a1 vL-13R23F0 aL0R0 aL0R0 f1 f1
+     ->6: a2 a2 a2 vL7R-5F0 aL-13R0 aL-13R0 f1 f0
+        /15: a1 a1 a1 vL14R-2F0 aL0R0 aL0R0 f1 f0
+      \1: a2 a2 a3 vL-30R18F0 aL0R-2 aL0R-2 f0 f1
+       ->5: a1 a1 a1 vL9R-2F0 aL0R0 aL0R0 f1 f0
+  @4: a1 a1 a1 vL14R-8F0 aL0R0 aL0R0 f0 f1
+
+  @8: a1 a1 a1 vL-2R-5F0 aL0R0 aL0R0 f0 f1
+
+    /10: a1 a1 a1 vL24R-21F1 aL0R0 aL0R0 f0 f0
+  @13: a2 a2 a2 vL0R0F1 aL0R-21 aL0R-21 f1 f1
+
+  @14: a1 a1 a1 vL-2R10F0 aL0R0 aL0R0 f1 f1
+>>>
